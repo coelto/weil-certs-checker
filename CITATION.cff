@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "When using the program, cite the paper by its DOI."
+title: "Independent verification of certificates of lower bounds for the truncated Weil form"
+type: software
+authors:
+  - family-names: "Chekmachev"
+    given-names: "Vadim"
+    orcid: "https://orcid.org/0009-0009-2982-0532"
+license: "MIT"
+repository-code: "https://github.com/coelto/weil-certs-checker"
+preferred-citation:
+  type: article
+  title: "Rigorous lower bounds for the truncated Weil form up to support length ln 71 via a lattice minorant"
+  authors:
+    - family-names: "Chekmachev"
+      given-names: "Vadim"
+      orcid: "https://orcid.org/0009-0009-2982-0532"
+  doi: "10.5281/zenodo.23848596"
+  year: 2026
+references:
+  - type: data
+    title: "Certificate data for the paper \"Rigorous lower bounds for the truncated Weil form up to support length ln 71 via a lattice minorant\""
+    authors:
+      - family-names: "Chekmachev"
+        given-names: "Vadim"
+    doi: "10.5281/zenodo.23091912"
