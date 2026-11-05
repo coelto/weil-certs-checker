@@ -1,0 +1,35 @@
+{
+ "upload_type": "software",
+ "title": "Independent verification of certificates of lower bounds for the truncated Weil form",
+ "creators": [
+  {
+   "name": "Chekmachev, Vadim",
+   "orcid": "0009-0009-2982-0532"
+  }
+ ],
+ "description": "Independent verification of the published certificates of rigorous lower bounds for the truncated Weil form in Arb ball arithmetic (python-flint).",
+ "license": "mit",
+ "keywords": [
+  "Weil form",
+  "explicit formula",
+  "rigorous numerics",
+  "interval arithmetic",
+  "Arb",
+  "python-flint",
+  "computer-assisted proof"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "10.5281/zenodo.23848596",
+   "relation": "isSupplementTo",
+   "resource_type": "publication-preprint",
+   "scheme": "doi"
+  },
+  {
+   "identifier": "10.5281/zenodo.23091912",
+   "relation": "references",
+   "resource_type": "dataset",
+   "scheme": "doi"
+  }
+ ]
+}
